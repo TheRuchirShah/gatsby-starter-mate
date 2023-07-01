@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "enquirer": "^2.3.6",
-    "chalk": "^4.1.2",
+    "chalk": "^5.3.0",
     "contentful-import": "^8.5.43",
     "env-cmd": "^10.1.0",
     "ts-node": "^10.9.1",
